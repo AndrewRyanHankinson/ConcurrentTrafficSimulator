@@ -1,0 +1,10 @@
+ENTRYPOINTS
+North 450
+East 100
+South 450
+
+JUNCTIONS
+A 25
+B 25
+C 25
+D 30
